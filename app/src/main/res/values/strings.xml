@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Financial tracker</string>
+    <string name="figuring_how_to_save">Figuring how to save</string>
+    <string name="todo">TODO</string>
+    <string name="figuring_out_on_saving">Figuring out on saving?</string>
+    <string name="next">Next</string>
+    <string name="track_your_finances">Track your Finances</string>
+</resources>
