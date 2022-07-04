@@ -5,4 +5,6 @@
     <string name="figuring_out_on_saving">Figuring out on saving?</string>
     <string name="next">Next</string>
     <string name="track_your_finances">Track your Finances</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
