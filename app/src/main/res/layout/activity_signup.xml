@@ -15,7 +15,7 @@
         app:layout_constraintGuide_percent="0.11" />
 
     <com.google.android.material.textfield.TextInputLayout
-        android:id="@+id/textInputLayout2"
+        android:id="@+id/tilFirstname"
         android:layout_width="0dp"
         android:layout_height="0dp"
         android:layout_marginStart="56dp"
@@ -54,7 +54,7 @@
         app:layout_constraintBottom_toTopOf="@+id/guideline4"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/textInputLayout2">
+        app:layout_constraintTop_toBottomOf="@+id/tilFirstname">
 
         <com.google.android.material.textfield.TextInputEditText
             android:id="@+id/etSecondname"
